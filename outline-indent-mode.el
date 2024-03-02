@@ -4,7 +4,7 @@
 ;; Version: 0.1.0
 ;; Author: Meow King <mr.meowking@anche.no>
 ;; Keywords: outlines, text
-;; URL:   ;FIXME
+;; URL: https://sr.ht/~meow_king/outline-indent-mode/
 ;; License: GNU General Public License >= 3
 ;; Package-Requires: ((emacs "24.4"))
 
